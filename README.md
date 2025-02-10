@@ -1,2 +1,2 @@
-# update-disabler
-self explanatory permanent # windows 10 (maybe 11) update disabler 
+# update-disabler for win 10 (maybe 11)
+self explanatory its permanent
